@@ -1,6 +1,6 @@
 # Privacy Policy — SuperBrushKids
 **Developer:** BrushHero Labs  
-**Contact:** brushherosupport@gmail.com  
+**Contact:** 	avyani.studio25@gmail.com  
 **Effective date:** 03/05/2026
 
 SuperBrushKids is designed for families and children. We take privacy seriously and aim to collect as little data as possible.
