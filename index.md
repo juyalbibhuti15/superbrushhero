@@ -52,4 +52,4 @@ We use reasonable safeguards within the app; however, no method of storage is 10
 We may update this policy from time to time. If we make changes, we will update the effective date above.
 
 ## Contact Us
-If you have questions, contact us at: **brushherosupport@gmail.com**
+If you have questions, contact us at: **avyani.studio25@gmail.com**
